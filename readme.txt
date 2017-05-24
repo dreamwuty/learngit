@@ -8,3 +8,4 @@ Create a new branch is quick and simple.
 test --no-ff
 test git stash
 test duorenxiezuo
+duo ren xie zuo
