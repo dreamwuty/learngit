@@ -6,3 +6,4 @@ Create a new branch is quick and simple.
 -no--ff
 --no-f
 test --no-ff
+test git stash
