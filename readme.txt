@@ -7,3 +7,4 @@ Create a new branch is quick and simple.
 --no-f
 test --no-ff
 test git stash
+duo ren xie zuo
